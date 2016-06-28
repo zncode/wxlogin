@@ -2,9 +2,9 @@
 class Qq_sdk{ 
  
 	//配置APP参数
-	private $app_id = 你的APP ID; 
-	private $app_secret = '你的APP_secret'; 
-	private $redirect = 你的回调地址;
+	private $app_id = '1105427643'; 
+	private $app_secret = 'gbpUaGQ8GCgdC1Vf'; 
+	private $redirect = '';
 	 
 	function __construct() 
 	{ 
